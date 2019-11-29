@@ -1,4 +1,4 @@
-# priyanshu-face_recognition
+# AKASH-face_recognition
 Real-time face recognition, age, emotion, gender classification using CNN, tensorflow and openCV.
 
 priyanshu-face_recongition can be used to identify and know the emotions, age , gender of a person. It uses your WebCamera and then identifies your characteristics in Real Time.
